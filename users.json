@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "User 1",
+        "image": "https://randomuser.me/api/portraits/men/11.jpg",
+        "rating": 1192
+    },
+    {
+        "id": 2,
+        "name": "User 2",
+        "image": "https://randomuser.me/api/portraits/women/21.jpg",
+        "rating": 1235
+    },
+    {
+        "id": 3,
+        "name": "User 3",
+        "image": "https://randomuser.me/api/portraits/men/31.jpg",
+        "rating": 1197
+    },
+    {
+        "id": 4,
+        "name": "User 4",
+        "image": "https://randomuser.me/api/portraits/women/41.jpg",
+        "rating": 1258
+    },
+    {
+        "id": 5,
+        "name": "User 5",
+        "image": "https://randomuser.me/api/portraits/men/51.jpg",
+        "rating": 1133
+    },
+    {
+        "id": 6,
+        "name": "User 6",
+        "image": "https://randomuser.me/api/portraits/women/61.jpg",
+        "rating": 1164
+    },
+    {
+        "id": 7,
+        "name": "User 7",
+        "image": "https://randomuser.me/api/portraits/men/71.jpg",
+        "rating": 1202
+    },
+    {
+        "id": 8,
+        "name": "User 8",
+        "image": "https://randomuser.me/api/portraits/women/81.jpg",
+        "rating": 1219
+    }
+]
